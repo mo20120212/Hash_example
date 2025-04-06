@@ -1,7 +1,7 @@
-It's a example for hash , filesteam and so on.
-It's in building.
-TMD英文太难写了，一下是中文.|TMD English is hard to write.Following is Chinese.If you not Chinese you can use translation.
----------------------------------------------------------------------------------------------------------------------------
+It's a example for hash , filesteam and so on.  
+It's in building.  
+TMD英文太难写了，一下是中文.|TMD English is hard to write.Following is Chinese.If you not Chinese you can use translation.  
+---
 说明:
 以下是代码中各函数的详细解析及其输入值、作用说明：
 

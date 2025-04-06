@@ -164,3 +164,4 @@ TMD英文太难写了，一下是中文.|TMD English is hard to write.Following 
 version:1.0.0
 Change log:
 1. pull code && Write README.md
+2. Del user file(USER.cfg PASSWORD.cfg and SALT.cfg)

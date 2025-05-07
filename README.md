@@ -165,3 +165,4 @@ version:1.0.0
 Change log:
 1. pull code && Write README.md
 2. Del user file(USER.cfg PASSWORD.cfg and SALT.cfg)
+3. Change main file

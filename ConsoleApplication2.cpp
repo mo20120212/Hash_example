@@ -5,7 +5,7 @@
 #include <fstream>
 #include <memory>
 #include <stdexcept>
-#include <openssl/sha.h>  // 使用正确的头文件
+#include <openssl/sha.h>
 #include <unordered_map>
 #include <iomanip>
 #include <random>
@@ -226,7 +226,6 @@ private:
     unique_ptr<FileManager> fileManager;
 };
 
-// 其他函数保持不变...
 
 void exitProgram() {
     system("cls");
